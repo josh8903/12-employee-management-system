@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1pHhlveVjZMMR5WxIZmoBMSzHUHY-_g7Q/view
 ## Installation
 1. Run this command to download the application
 ```
-git@github.com:josh8903/12-employee-management-system.git
+git clone git@github.com:josh8903/12-employee-management-system.git
 ```
 2. Run this command to navigate to the application folder
 ```
